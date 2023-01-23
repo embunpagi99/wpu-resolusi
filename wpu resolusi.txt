@@ -2,3 +2,5 @@ wpu rosolusi
 - fukos
 - pengelolaan viseo
 - forum diskusi
+- shoop
+- kolaborasi dengan orang
